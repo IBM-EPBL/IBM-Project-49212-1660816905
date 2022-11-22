@@ -1,11 +1,18 @@
 # IBM-Project-49212-1660816905
-Plasma Donor Application\n
-TEAM MEMBERS\n
-Narmatha k\n
-Reshma k\n
-Sharmila S\n
-Deepalakshmi R\n
+Plasma Donor Application
+
+TEAM MEMBERS
+
+Narmatha K
+
+Reshma k
+
+Sharmila S
+
+Deepalakshmi R
+
 Plasma Donar Application
+
 ![image](https://user-images.githubusercontent.com/113791179/203226759-69435011-3c5f-470f-a970-3319d4e14333.png)
 
 
@@ -16,5 +23,7 @@ Plasma is commonly given to trauma, burn and shock patients, as well as people w
 In a plasma-only donation, the liquid portion of the donor’s blood is separated from the cells. Blood is drawn from one arm and sent through a high-tech machine that collects the plasma. The donor’s red blood cells and platelets are then returned to the donor along with some saline. The process is safe and only takes a few minutes longer than donating whole blood.
 
 Many of them need plasma if we donate plasma to others it will be useful for others and us also.
+
 SOFTWARE REQUIRED:
+
 Python,Flask,Docker.
